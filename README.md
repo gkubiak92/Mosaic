@@ -47,13 +47,14 @@ http://localhost:5000/mozaika?zdjecia=https://boygeniusreport.files.wordpress.co
 
 
 
-## Images used for test purposes
+## Images used for test purposes*
 
 * https://boygeniusreport.files.wordpress.com/2016/05/scared-surprised-cat-face.jpg
 * https://boygeniusreport.files.wordpress.com/2015/06/funny-cat.jpg
 * https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720__340.jpg
 * http://restlessnationradio.com/wp-content/uploads/2018/01/1516956465_hqdefault-480x330.jpg
 
+No cat suffered while designing this application :)
 
 ## Authors
 
