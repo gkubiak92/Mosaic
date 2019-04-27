@@ -1,0 +1,25 @@
+
+body {
+    box-sizing: border-box;
+    padding: 0 5vw;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: #f45901
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
+
+img{
+    max-width: 80%;
+}
